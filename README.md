@@ -16,4 +16,4 @@ cd src
 cd hello_agent
 uv run pello
 
-![Terminal Output](/images/agentoutput.png)
+![Terminal Output](/image/agentoutput.png)
